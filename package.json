@@ -1,0 +1,31 @@
+{
+  "name": "compliment-someone",
+  "version": "1.0.0",
+  "description": "A Google Home Action to compliment someone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanchanpsu/compliment-someone.git"
+  },
+  "keywords": [
+    "google",
+    "home",
+    "action",
+    "compliment",
+    "someone"
+  ],
+  "author": "stanchanpsu@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanchanpsu/compliment-someone/issues"
+  },
+  "homepage": "https://github.com/stanchanpsu/compliment-someone#readme",
+  "dependencies": {
+    "actions-on-google": "^1.7.0",
+    "firebase-admin": "^5.7.0",
+    "firebase-functions": "^0.8.0"
+  }
+}
