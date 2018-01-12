@@ -1,4 +1,4 @@
-# Compliment Somone
+# Be Nice
 
 Compliment Someone is a Google Home Action that will compliment you or anyone you want to compliment
 
@@ -13,9 +13,9 @@ gcloud beta functions deploy complimentSomeone --stage-bucket staging.compliment
 ## Usage
 
 Talk to Google Assistant (on phone or Google Home):
-> Hey Google, talk to compliment someone
+> Hey Google, talk to be nice
 
-> Hey Google, ask compliment someone to compliment me 
+> Hey Google, ask be nice to compliment me 
 
 Compliment Someone:
 > Compliment Angela
