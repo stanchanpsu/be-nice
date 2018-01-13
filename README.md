@@ -12,15 +12,15 @@ gcloud beta functions deploy beNice --stage-bucket be-nice --trigger-http --entr
 
 ## Usage
 
-Talk to Google Assistant (on phone or Google Home):
+Start Be Nice on Google Assistant (on phone, Allo, or Google Home):
 > Hey Google, talk to be nice
 
 > Hey Google, ask be nice to compliment me 
 
 Compliment Someone:
-> Compliment Angela
+> Compliment Annie
 
-> Give Angela a compliment
+> Give Annie a compliment
 
 Compliment Anyone:
 > Compliment Me
