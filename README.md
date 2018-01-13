@@ -1,8 +1,6 @@
-# Be Nice
-
 ![be-nice](artifacts/be-nice-1920x1080.jpg)
 
-Be Nice is a Google Home Action that will compliment you or anyone you want to compliment
+**Be Nice** is a Google Home Action that will compliment you or anyone you want to compliment
 
 ## Deployment
 
