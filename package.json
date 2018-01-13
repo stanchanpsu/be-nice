@@ -1,5 +1,5 @@
 {
-  "name": "compliment-someone",
+  "name": "be-nice",
   "version": "1.0.0",
   "description": "A Google Home Action to compliment someone",
   "main": "index.js",

@@ -7,7 +7,7 @@ Compliment Someone is a Google Home Action that will compliment you or anyone yo
 Deploy to gcloud functions:
 
 ```sh
-gcloud beta functions deploy complimentSomeone --stage-bucket staging.compliment-40255.appspot.com --trigger-http --entry-point complimentSomeone
+gcloud beta functions deploy beNice --stage-bucket be-nice --trigger-http --entry-point beNice
 ```
 
 ## Usage
